@@ -1,15 +1,11 @@
-#### Please add your answers to the ***Analysis of  Algorithms*** exercises here.
+#### Please add your answers to the **_Analysis of Algorithms_** exercises here.
 
 ## Exercise I
 
-a)
+a) This one has just one loop and there is no nested loop so answer is O(n)
 
+b) This one has one for loop O(n) and one nested while loop (doubled each time) O(log(n)) so answer is O(n\*log(n))
 
-b)
-
-
-c)
+c) this is classic recursive operatiob so answer is O(n)
 
 ## Exercise II
-
-

@@ -2,9 +2,9 @@
 
 ## Exercise I
 
-a) This one has just one loop and there is no nested loop so answer is O(n)
+a) This one has just one loop and there is no nested loop so answer is O(n). n and a are related.
 
-b) This one has one for loop O(n) and one nested while loop (doubled each time) O(log(n)) so answer is O(n\*log(n))
+b) This one has one for loop O(n) and one nested while loop so answer is n^2.
 
 c) this is classic recursive operation so answer is O(n)
 
